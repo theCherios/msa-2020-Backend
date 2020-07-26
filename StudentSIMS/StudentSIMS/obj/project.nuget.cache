@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F79Sky2ihZwJso1D+YiJvfylyMETyLA0nV90M79ewvZ+9XZ3I6To9gP9GhgMedgu8G3PyZI/ae+CwMeNK/rRqw==",
+  "dgSpecHash": "4fDwErZ2eX2vM4Xew+SIo1mOou1/2iUWmUOvVF1jtI76AOsoDWyUjScCyd2q9jMZngNvmouZ50gOSOCH0XCOyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnc\\OneDrive - AUT University\\MSA2020\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj",
+  "projectFilePath": "C:\\Users\\johnc\\OneDrive\\Documents\\GitHub\\msa-2020-Backend\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnc\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\johnc\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

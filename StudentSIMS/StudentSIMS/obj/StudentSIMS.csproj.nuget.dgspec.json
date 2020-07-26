@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnc\\OneDrive - AUT University\\MSA2020\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj": {}
+    "C:\\Users\\johnc\\OneDrive\\Documents\\GitHub\\msa-2020-Backend\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnc\\OneDrive - AUT University\\MSA2020\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj": {
+    "C:\\Users\\johnc\\OneDrive\\Documents\\GitHub\\msa-2020-Backend\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnc\\OneDrive - AUT University\\MSA2020\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj",
+        "projectUniqueName": "C:\\Users\\johnc\\OneDrive\\Documents\\GitHub\\msa-2020-Backend\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj",
         "projectName": "StudentSIMS",
-        "projectPath": "C:\\Users\\johnc\\OneDrive - AUT University\\MSA2020\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj",
+        "projectPath": "C:\\Users\\johnc\\OneDrive\\Documents\\GitHub\\msa-2020-Backend\\StudentSIMS\\StudentSIMS\\StudentSIMS.csproj",
         "packagesPath": "C:\\Users\\johnc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnc\\OneDrive - AUT University\\MSA2020\\StudentSIMS\\StudentSIMS\\obj\\",
+        "outputPath": "C:\\Users\\johnc\\OneDrive\\Documents\\GitHub\\msa-2020-Backend\\StudentSIMS\\StudentSIMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\johnc\\AppData\\Roaming\\NuGet\\NuGet.Config",
